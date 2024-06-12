@@ -5,5 +5,5 @@
 > Para rodar faz-se necessário:
 >
 > '''
-> npm install ....
+> node app.js ....
 > '''
